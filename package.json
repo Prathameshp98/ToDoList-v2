@@ -7,9 +7,6 @@
   },
   "author": "Prathamesh",
   "license": "ISC",
-  "engines": {
-    "node": "16.13.1"
-  },
   "description": "",
   "dependencies": {
     "body-parser": "^1.19.1",
@@ -17,5 +14,8 @@
     "express": "^4.17.2",
     "lodash": "^4.17.21",
     "mongoose": "^6.1.7"
+  },
+  "engines": {
+    "node": "16.13.1"
   }
 }
